@@ -2,11 +2,11 @@ import React from 'react';
 
 function App() {
   const name = 'Vinicius';
-  const message = 'Olá mundo!';
+  const message = 'Welcome to React!';
 
   return (
     <div>
-      <h1>Olá, {name}!</h1>
+      <h1>Hello, {name}!</h1>
       <p>{message}</p>
     </div>
   );
